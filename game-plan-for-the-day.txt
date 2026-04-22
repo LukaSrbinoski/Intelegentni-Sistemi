@@ -1,0 +1,3 @@
+Installing ollama. 
+Trying to figure out how it works and how to get a free API from it.
+Try and import it in our code.
