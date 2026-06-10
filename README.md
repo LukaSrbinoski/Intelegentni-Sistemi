@@ -41,7 +41,10 @@ Tavily API – Се користи за разбирање на прашањат
 
 Поставување на проектот
 1. Клонирање на репозиториумот
-2. Инсталирање на зависностите: pip install -r requirements.txt
+2. Инсталирање на зависностите:
+- pip install flask
+- pip install tavily-python
+- pip install python-dotenv
 3. Додавање на Tavily API клуч во .env фајлот
 4. Стартување на апликацијата: python main.py
 5. Отворање на http://127.0.0.1:5000 во веб-прелистувач
